@@ -1,2 +1,1 @@
-# fullstack-2-backend
-This is the REST API
+# fullstack-backend

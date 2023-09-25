@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.json({ message: "Hello Bootcamp!" });
+  res.json({ message: "Learning about Fullstack Bootcamp!" });
 });
 
 app.use("/products", productsRotuer);
